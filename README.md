@@ -3,7 +3,3 @@
 並請將連結中的檔案下載放入"VR-Test_Data"folder後解壓縮
 
 https://drive.google.com/file/d/15lXclTIqPY4tlwk-NFRrOoq1tSuyXxvE/view?usp=drive_link
-
-專案檔過大，放在連結中：
-
-https://drive.google.com/file/d/1KXZEYlK_a4iFVjKnn_cSl1wrUGO8mUdm/view?usp=drive_link
